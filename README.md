@@ -50,7 +50,6 @@ By combining advanced image detection algorithms with user-triggered actions, th
 <div align="center">
 <img  src="skip.png"></img>
 <img  src="skip2.png"></img>
-
  </div>
 <h3>📚 Getting Started:</h3>
 1. Clone the repository to your local machine.<br>
